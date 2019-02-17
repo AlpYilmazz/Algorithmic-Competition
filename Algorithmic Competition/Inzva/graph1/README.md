@@ -1,3 +1,3 @@
-[ONLINE CONTEST](https://www.hackerrank.com/contests/inzva-07-graph-2-online-2019/challenges)
+[ONLINE CONTEST](https://www.hackerrank.com/contests/inzva-04-graph-1-online-2018/challenges)
 
-[ONSITE CONTEST](https://www.hackerrank.com/contests/inzva-07-graph-2-onsite-2019/challenges)
+[ONSITE CONTEST](https://www.hackerrank.com/contests/inzva-04-graph-1-onsite-2018/challenges)
